@@ -1,0 +1,7 @@
+[user]
+	name = bsod2528
+	email = ...
+[core]
+	editor = neovim
+	ignorecase = false
+
