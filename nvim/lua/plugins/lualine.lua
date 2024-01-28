@@ -5,5 +5,5 @@ return {
 		require("lualine").setup({
 			options = {theme = "auto"}
 		})
-	end
+	end,
 }
