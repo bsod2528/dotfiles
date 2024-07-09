@@ -1,6 +1,7 @@
 # custom aliases
 alias lg='lazygit'
 alias bye='systemctl poweroff'
+alias cls='clear' # it's easier
 alias log='sudo journalctl > journal.txt'
 
 # deno in PATH
