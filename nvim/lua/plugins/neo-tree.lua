@@ -19,5 +19,6 @@ return {
 		})
 		vim.keymap.set("n", "<A-q>", ":Neotree filesystem reveal left<CR>", {})
 		vim.keymap.set("n", "<A-r>", ":Neotree filesystem reveal right<CR>", {})
+		vim.keymap.set("n", "<A-e>", ":Neotree close<CR>", {})
 	end,
 }
