@@ -5,6 +5,7 @@ alias lg='lazygit'
 alias bye='systemctl poweroff'
 alias cls='clear' # it's easier
 alias log='sudo journalctl > journal.txt'
+alias update='sudo pacman -Syu' # istg i feel like a genius
 
 # deno in PATH
 . "$HOME/.cargo/env"
